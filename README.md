@@ -4,7 +4,7 @@
 
 <h2> Revised: July 02, 2025</h2>
 
-<img src="/current/Resume 20250702" alt="Resume" style="margin-top: 50px;" />
+<img src="/current/Iquoc Tran Resume 20250702.pdf" alt="Resume" style="margin-top: 50px;" />
 
 <h2> Connect with me:</h2>
 
