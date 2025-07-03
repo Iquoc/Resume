@@ -5,11 +5,6 @@
 <h2> Revised: July 02, 2025</h2>
 
 <img src="/current/Iquoc Tran Resume 20250702.pdf" alt="Resume" style="margin-top: 50px;" />
-<object data="/current/Iquoc Tran Resume 20250702.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/current/Iquoc Tran Resume 20250702.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Iquoc/Resume/tree/main/current">Download PDF</a>.</p>
-    </embed>
-</object>
 
 <h2> Connect with me:</h2>
 
